@@ -1,6 +1,6 @@
             # MemorizeThat
 
-Live site - https://juanchaka.github.io/MemorizeThat_Capstone/game
+Live site - https://juanchaka.github.io/MemorizeThat_Capstone/game (Currently Disabled)
 
 MemorizeThat is a full-stack web application designed to challenge and improve users' memory through an engaging game while tracking their progress over time.
 
